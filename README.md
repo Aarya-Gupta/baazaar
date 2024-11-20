@@ -1,2 +1,1 @@
-# Trends and Times
- 
+# baazaar
